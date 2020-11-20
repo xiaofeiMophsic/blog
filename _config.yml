@@ -4,7 +4,7 @@
 
 # Site
 title: Oops...
-subtitle: 大道至简
+subtitle: 间接性踌躇满志。
 description: 个人博客
 author: xiaofei
 email: paozi.xiaofei.123@gmail.com
@@ -83,7 +83,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:xiaofeiMophsic/xiaofeiMophsic.github.io.git
+  repository: git@39.100.227.73:/home/git/blog.git
   branch: master
 
 # rss订阅
